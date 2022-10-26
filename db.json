@@ -1,5 +1,5 @@
 {
  “mydb”: 
-[ { “id”: 1, “name”: “bhartendu”, “email”: “bp@test.com” }]
+ { “id”: 1, “name”: “bhartendu”, “email”: “bp@test.com” },
  
 }
